@@ -12,6 +12,5 @@ Find the kth smallest element in a Binary Search Tree (BST).
 
 ## ⏱️ Complexity
 
-Time: O(n log k) — each insertion/deletion in heap costs log k.
-
-Space: O(k + h) — heap stores up to k elements, recursion depth = h (tree height).
+- Time: O(n log k) — each insertion/deletion in heap costs log k.
+- Space: O(k + h) — heap stores up to k elements, recursion depth = h (tree height).
